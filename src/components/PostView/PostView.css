@@ -1,0 +1,27 @@
+.post-view {
+    padding: 2rem 4rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    /* background-color: red; */
+}
+
+.post-title {
+    margin-bottom: 1rem;
+}
+
+.post-meta {
+    display: inline-block;
+    /* color: white; */
+    /* background-color: rgb(226, 220, 220); */
+    margin-bottom: 1.6rem;
+}
+
+.post-content {
+    margin-bottom: 2.4rem;
+    line-height: 1.5;
+    letter-spacing: 0.2px;
+}
+
+.highlight {
+    color: red;
+}
